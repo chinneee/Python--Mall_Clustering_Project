@@ -22,6 +22,7 @@ Clustering based on 2 features: annual income and spending score.
 ![](https://github.com/chinneee/Mall_Clustering_Project/blob/main/Table%20with%20labels.png)
 We can clearly see that 5 different clusters have been formed from the data. The red cluster is the customers with the least income and least spending score, similarly, the blue cluster is the customers with the most income and most spending score.
 ![](https://github.com/chinneee/Mall_Clustering_Project/blob/main/Spending%20and%20Income%20Cluster.png) 
+
 So, we used K-Means clustering to understand customer data. K-Means is a good clustering algorithm. Almost all the clusters have similar density. It is also fast and efficient in terms of computational cost.
 
 Thanks for reading. I am Trinh Nguyen.
